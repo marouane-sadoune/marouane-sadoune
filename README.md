@@ -57,7 +57,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marouane-sadoune&layout=compact&langs_count=8&theme=algolia"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marouane-sadoune&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marouane-sadoune&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Marouane Sadoune" />
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marouane-sadoune&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Marouane Sadoune" /> -->
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
