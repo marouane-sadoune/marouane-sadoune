@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Marouane Sadoune : ![ProfileViews](https://komarev.com/ghpvc/?username=youssefabidi13&label=Profile%20views&color=0e75b6&style=flat)</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Marouane Sadoune : ![ProfileViews](https://komarev.com/ghpvc/?username=marouane-sadoune&label=Profile%20views&color=0e75b6&style=flat)</h2>
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
