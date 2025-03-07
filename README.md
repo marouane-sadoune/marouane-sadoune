@@ -10,7 +10,7 @@
 📄 &nbsp; Please have a look at my [CV](Marouane_Sadoune_CV.pdf) for more details about me. I'm open to feedback and suggestions!
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
-<img alt="Night Coding" src="https://cdn.discordapp.com/attachments/1056944593171660842/1068257407165272127/Black_and_White_Animated_Personal_Name_Initials_Logo.gif" align="right"/> 
+<img alt="Night Coding" src="https://cdn.discordapp.com/attachment/1056944593171660842/1068257407165272127/Black_and_White_Animated_Personal_Name_Initials_Logo.gif" align="right"/> 
 
 ### 🛠 &nbsp;Tech Stack
 #### Languages:
