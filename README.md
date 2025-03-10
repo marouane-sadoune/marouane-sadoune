@@ -27,9 +27,9 @@
 ![Symfony](https://img.shields.io/badge/Symfony-4682b4?style=for-the-badge&logo=Symfony&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-<!-- ![AngularJS](https://img.shields.io/badge/-Angular-000000?style=for-the-badge&logo=Angular&logoColor=red)
+<!-- ![AngularJS](https://img.shields.io/badge/-Angular-000000?style=for-the-badge&logo=Angular&logoColor=lightred)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS]-->
+![TailwindCSS] -->
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### Databases:
