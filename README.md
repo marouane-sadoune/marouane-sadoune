@@ -77,4 +77,4 @@
 
 
 ### 🔝 GitHub Trophy Stats
-![Trophies](https://github-profile-trophy.vercel.app/?username=marouane-sadoune&theme=flat)
+![](https://github-contributor-stats.vercel.app/api?username=m1rouane&limit=5&theme=flat&combine_all_yearly_contributions=true)
