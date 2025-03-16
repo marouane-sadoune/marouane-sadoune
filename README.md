@@ -64,6 +64,9 @@
 </a>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marouane-sadoune&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Marouane Sadoune" />
 </p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=marouane-sadoune&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
