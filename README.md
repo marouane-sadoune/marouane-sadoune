@@ -64,7 +64,7 @@
 </a>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marouane-sadoune&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Marouane Sadoune" />
 </p>
-### 🔝 Top Contributed Repo
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -74,3 +74,7 @@
 <a href="mailto:marouanesadoune@gmail.com"><img src="https://img.shields.io/badge/-marouanesadoune@gmail.com-E4405F?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/27801305/marouane-sadoune"><img src="https://img.shields.io/badge/-Marouane Sadoune-4A154B?style=flat&logo=Stackoverflow&logoColor=white"/></a>
 </p>  
+
+
+### 🔝 GitHub Trophy Stats
+![Trophies](https://github-profile-trophy.vercel.app/?username=marouane-sadoune&theme=flat)
