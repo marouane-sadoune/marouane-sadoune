@@ -49,7 +49,7 @@
 
 #### Version Control:
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="git" width="40" height="40"/>
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-fc6d26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
