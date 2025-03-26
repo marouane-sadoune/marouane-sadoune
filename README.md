@@ -57,6 +57,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="MySql" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="c" width="40" height="40"/>
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
