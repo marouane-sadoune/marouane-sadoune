@@ -9,7 +9,7 @@
       <li>🌱 &nbsp;I'm on track for learning more about Symfony, Spring boot, Laravel, and Microservices.</li><br>
       <li>✍️ &nbsp;In my free time, I enjoy being physically active, and spend a lot of time playing sports.</li><br>
       <li>💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.</li><br>
-      <li>✉️ &nbsp;You can shoot me an email at <a href="youssef.abidi@etu.uae.ac.ma" >marouanesadoune@gmail.com</a> I'll try to respond as soon as I can.
+      <li>✉️ &nbsp;You can shoot me an email at <a href="youssef.abidi@etu.uae.ac.ma" >marouanesadoune@gmail.com</a> I'will try to respond as soon as I can.
       <li>📄 &nbsp;Check out my <a href="https://github.com/marouane-sadoune/marouane-sadoune/blob/main/Marouane_Sadoune_CV.pdf" target="_blank">CV</a> for more details about me. I'm always open to feedback and suggestions!</li>
    </ul>
   </div>
