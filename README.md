@@ -75,6 +75,7 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/marouane-sadoune-266a67255/"><img src="https://img.shields.io/badge/-Marouane Sadoune-007fbf?style=flat&logo=linkedin&logoColor=white"/></a>
+
 <a href="mailto:marouanesadoune@gmail.com"><img src="https://img.shields.io/badge/-marouanesadoune@gmail.com-E4405F?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/27801305/marouane-sadoune"><img src="https://img.shields.io/badge/-Marouane Sadoune-4A154B?style=flat&logo=Stackoverflow&logoColor=white"/></a>
 </p>  
