@@ -15,7 +15,10 @@
   </div>
 </div>
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
-
+My GitHub Activity Game
+<p align="center">
+<img src="space_shoter.gif" />
+</p>
 
 ### 🛠 &nbsp;Tech Stack
 #### Languages:
